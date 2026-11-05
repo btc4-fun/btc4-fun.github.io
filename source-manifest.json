@@ -1,0 +1,83 @@
+{
+  "canonical_origin": "https://btc4.fun",
+  "outputs": {
+    ".nojekyll": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "download/index.html": "00cbce63765f7e73472a149209b7c0416c39d929d1a1654f338e98ae6c6cfe1a",
+    "guide/index.html": "a7699a7f31a69c74f194bf7f7cc00521e36f69a8a7110346c5a5e3e07cabdc20",
+    "index.html": "0734a1a8d21192cb176f65fe8ba4b267baaeb1751c3979bf0b5cafc96d0c6974",
+    "robots.txt": "16ceb5ee3e0dc13aa9adf31a3ebbe45a1d965b8c2b9f72eaf84e5911e140ed95",
+    "security/index.html": "ffb497db05311dd4012fac36254cccb91377793330ae59148198ccac414465cb",
+    "static/SEAL-LICENSE.md": "8b11ab8582378b9cd0feebf73a1cf8852c0463e7391d22b6bd23d6bbf6618ea4",
+    "static/fonts/LICENSE": "4de56cc5fc458113a5704ec4d850191e640396008a6e45ff2a70d67ea6c5c74f",
+    "static/fonts/SOURCE.txt": "41fcc853ecd394efedf976033485a6aa7a719322340ccfcab26ed0f8b854f851",
+    "static/fonts/Sahel-Bold.woff2": "162c05c4a6c2e975b07390f923425bb5e170e00c8bd3deccd784f6cb4326d289",
+    "static/fonts/Sahel.woff2": "df74c625136d60e981abbd32cc75624007e5b36cc41cc5327dff190d22b21772",
+    "static/guide-inner-example.png": "113899a2c0c904aae8ceed5474ef37900407775e34dba9b04350b84ea8dc93b0",
+    "static/guide-outer-example.png": "e945d58f49cd7e0e07248698272ff34ca728a500db8db91cb3b34de05d68db2c",
+    "static/payment-card.svg": "4b655878c8fdd667fb53fe36e4555911cdaad1088d41f939fdba20b523576513",
+    "static/payment-sheba.svg": "34df3f4cb1d49552b3528dacae59ca3c40f9da41667787c8de3f6e7215ec139e",
+    "static/seal.svg": "ce539ff1b27f8169aacd96fefc9c9bb50ae243630c97c73d4dbf07a823b61fab",
+    "static/security.js": "f76d306d2e25c677cbc72ec60423fc9cf57c1d73795235f6393e13787ef25418",
+    "static/site.css": "a7fef2671a98061a87bfdf54bf58a9bbf38679256f195cf25a130c4c221eb07c",
+    "static/site.js": "763a6cd385b7afb18e8ff48b788942a6a1f4865a838a5015ddaf8bd6cbf85044",
+    "terms/index.html": "8e1e9c38ad79fb110fed5de562140922a33843ebf66cac8560da400a79e163e4"
+  },
+  "pages": [
+    {
+      "canonical": "https://btc4.fun/",
+      "output": "index.html",
+      "route": "/",
+      "template": "bitcoin4funsite/templates/index.html"
+    },
+    {
+      "canonical": "https://btc4.fun/guide",
+      "output": "guide/index.html",
+      "route": "/guide",
+      "template": "bitcoin4funsite/templates/guide.html"
+    },
+    {
+      "canonical": "https://btc4.fun/security",
+      "output": "security/index.html",
+      "route": "/security",
+      "template": "bitcoin4funsite/templates/security.html"
+    },
+    {
+      "canonical": "https://btc4.fun/terms",
+      "output": "terms/index.html",
+      "route": "/terms",
+      "template": "bitcoin4funsite/templates/terms.html"
+    },
+    {
+      "canonical": "https://btc4.fun/download",
+      "output": "download/index.html",
+      "route": "/download",
+      "template": "bitcoin4funsite/templates/download.html"
+    }
+  ],
+  "schema_version": 1,
+  "sources": {
+    "bitcoin4funsite/static/SEAL-LICENSE.md": "8b11ab8582378b9cd0feebf73a1cf8852c0463e7391d22b6bd23d6bbf6618ea4",
+    "bitcoin4funsite/static/fonts/LICENSE": "4de56cc5fc458113a5704ec4d850191e640396008a6e45ff2a70d67ea6c5c74f",
+    "bitcoin4funsite/static/fonts/SOURCE.txt": "41fcc853ecd394efedf976033485a6aa7a719322340ccfcab26ed0f8b854f851",
+    "bitcoin4funsite/static/fonts/Sahel-Bold.woff2": "162c05c4a6c2e975b07390f923425bb5e170e00c8bd3deccd784f6cb4326d289",
+    "bitcoin4funsite/static/fonts/Sahel.woff2": "df74c625136d60e981abbd32cc75624007e5b36cc41cc5327dff190d22b21772",
+    "bitcoin4funsite/static/guide-inner-example.png": "113899a2c0c904aae8ceed5474ef37900407775e34dba9b04350b84ea8dc93b0",
+    "bitcoin4funsite/static/guide-outer-example.png": "e945d58f49cd7e0e07248698272ff34ca728a500db8db91cb3b34de05d68db2c",
+    "bitcoin4funsite/static/payment-card.svg": "4b655878c8fdd667fb53fe36e4555911cdaad1088d41f939fdba20b523576513",
+    "bitcoin4funsite/static/payment-sheba.svg": "34df3f4cb1d49552b3528dacae59ca3c40f9da41667787c8de3f6e7215ec139e",
+    "bitcoin4funsite/static/seal.svg": "ce539ff1b27f8169aacd96fefc9c9bb50ae243630c97c73d4dbf07a823b61fab",
+    "bitcoin4funsite/static/security.js": "f76d306d2e25c677cbc72ec60423fc9cf57c1d73795235f6393e13787ef25418",
+    "bitcoin4funsite/static/site.css": "a7fef2671a98061a87bfdf54bf58a9bbf38679256f195cf25a130c4c221eb07c",
+    "bitcoin4funsite/static/site.js": "763a6cd385b7afb18e8ff48b788942a6a1f4865a838a5015ddaf8bd6cbf85044",
+    "bitcoin4funsite/templates/_payment_details.html": "73759baafd8f3e8ab8491ddcf1404db3605b84f875071fb6af0c8dd56bde5da5",
+    "bitcoin4funsite/templates/_purchase_warning.html": "3851a25f2a2e975a4c08f912ee1fc7a276e4d72e3f025e401313d917f59f2dd1",
+    "bitcoin4funsite/templates/_wallet_safety.html": "ccd9ee524873c37f5752464b639149d450c577ffedffb2bfc588dd8506608bb9",
+    "bitcoin4funsite/templates/base.html": "fba1d5dcecb8177caf822858bd34e0bd1d09690604bf2860fe4aa12dbe07456d",
+    "bitcoin4funsite/templates/download.html": "ea609a0ba859ac7df5b8c0c38d316dc41a87fc041800e988abf34fc6a8910171",
+    "bitcoin4funsite/templates/guide.html": "07e54088497ef8c58284ce6ce39135fe66f13605ea8289298adb7c137e0d667f",
+    "bitcoin4funsite/templates/index.html": "876789c7998c7b86305256f44569c3f7295f8170172dd291234f0b9f56ab6d53",
+    "bitcoin4funsite/templates/security.html": "643dba96c4a54c85620576b99f203ce772ea94e6eb66cdcdf77bd7807f97a1df",
+    "bitcoin4funsite/templates/terms.html": "65883fd35ca6dd684830bd05a71ea346c99f5cc37b5804d7f148f8540914b63f",
+    "scripts/build_github_pages.py": "b254ada5966a4cf6bcca31ce67fd12a287f12dc3590ce120e09272d30d751af7"
+  }
+}
