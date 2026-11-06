@@ -21,8 +21,8 @@
     "static/seal.svg": "ef8992f9e6e2a766569dbe19b8814aad4ce1a6edee85d9bc8af14771c2946101",
     "static/security.js": "f76d306d2e25c677cbc72ec60423fc9cf57c1d73795235f6393e13787ef25418",
     "static/site.css": "28a9869f87b1c5338a44a054dbf11edcb94733ababf03f5a53ba9e417ec3eda6",
-    "static/site.js": "2af36a7e2fbcc4d0eb198e29add22daf3e73483db2f8ee36ff1d819b69d0a3a3",
-    "terms/index.html": "cf8bf7c2e627375631df45b32ded5d797ca1d577f5fe486928cdce2191144168"
+    "static/site.js": "e569b8fa8ddc6ca230f56d60767b1bf5d202e9edbbfcaf58313bb538adc8eace",
+    "terms/index.html": "dd584616ddd8cb3ec3f1459e546fac3f38b67e4187528461074d2febec824144"
   },
   "pages": [
     {
@@ -72,7 +72,7 @@
     "bitcoin4funsite/static/seal.svg": "ef8992f9e6e2a766569dbe19b8814aad4ce1a6edee85d9bc8af14771c2946101",
     "bitcoin4funsite/static/security.js": "f76d306d2e25c677cbc72ec60423fc9cf57c1d73795235f6393e13787ef25418",
     "bitcoin4funsite/static/site.css": "28a9869f87b1c5338a44a054dbf11edcb94733ababf03f5a53ba9e417ec3eda6",
-    "bitcoin4funsite/static/site.js": "2af36a7e2fbcc4d0eb198e29add22daf3e73483db2f8ee36ff1d819b69d0a3a3",
+    "bitcoin4funsite/static/site.js": "e569b8fa8ddc6ca230f56d60767b1bf5d202e9edbbfcaf58313bb538adc8eace",
     "bitcoin4funsite/templates/_payment_details.html": "73759baafd8f3e8ab8491ddcf1404db3605b84f875071fb6af0c8dd56bde5da5",
     "bitcoin4funsite/templates/_purchase_warning.html": "3851a25f2a2e975a4c08f912ee1fc7a276e4d72e3f025e401313d917f59f2dd1",
     "bitcoin4funsite/templates/_wallet_safety.html": "ccd9ee524873c37f5752464b639149d450c577ffedffb2bfc588dd8506608bb9",
@@ -81,7 +81,7 @@
     "bitcoin4funsite/templates/guide.html": "7917078c668880f1bf6b105bebe0b289776efca420e4ea34e62bcd1d3c6d9b3f",
     "bitcoin4funsite/templates/index.html": "49608a942bc285464c264c19d56bbbb7cefac668d784131f25792a52aa4456f7",
     "bitcoin4funsite/templates/security.html": "b4a68f25820374e22b3fad717f9dc19d9213e6a9911a405760656fcea16c0a7e",
-    "bitcoin4funsite/templates/terms.html": "def82c7b16311468cbaa3efe45d18aaa16ecd48aec2e4129ece6a50c4bc15fb8",
-    "scripts/build_github_pages.py": "0afd4569e0448cef2e5ad3afc04e5815aa1c02d8f510d9bd799e1bc076dc31ba"
+    "bitcoin4funsite/templates/terms.html": "e8ed62f15dfba4e615a984ec09c13788d0cf3ed1e59a3eb8f09e79d10f7cb5da",
+    "scripts/build_github_pages.py": "0a71fdaec796f1c18fe4bd9e0b24ce68f33edd3cf137fc1cc0e953e43bdde144"
   }
 }
