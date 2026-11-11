@@ -21,7 +21,7 @@
     "static/seal.svg": "ef8992f9e6e2a766569dbe19b8814aad4ce1a6edee85d9bc8af14771c2946101",
     "static/security.js": "f76d306d2e25c677cbc72ec60423fc9cf57c1d73795235f6393e13787ef25418",
     "static/site.css": "28a9869f87b1c5338a44a054dbf11edcb94733ababf03f5a53ba9e417ec3eda6",
-    "static/site.js": "e569b8fa8ddc6ca230f56d60767b1bf5d202e9edbbfcaf58313bb538adc8eace",
+    "static/site.js": "c5bbb898383dc45909e674770f54713fe38492ee02b9166d65eb5c5044959cd3",
     "terms/index.html": "dd584616ddd8cb3ec3f1459e546fac3f38b67e4187528461074d2febec824144"
   },
   "pages": [
@@ -72,7 +72,7 @@
     "bitcoin4funsite/static/seal.svg": "ef8992f9e6e2a766569dbe19b8814aad4ce1a6edee85d9bc8af14771c2946101",
     "bitcoin4funsite/static/security.js": "f76d306d2e25c677cbc72ec60423fc9cf57c1d73795235f6393e13787ef25418",
     "bitcoin4funsite/static/site.css": "28a9869f87b1c5338a44a054dbf11edcb94733ababf03f5a53ba9e417ec3eda6",
-    "bitcoin4funsite/static/site.js": "e569b8fa8ddc6ca230f56d60767b1bf5d202e9edbbfcaf58313bb538adc8eace",
+    "bitcoin4funsite/static/site.js": "c5bbb898383dc45909e674770f54713fe38492ee02b9166d65eb5c5044959cd3",
     "bitcoin4funsite/templates/_payment_details.html": "73759baafd8f3e8ab8491ddcf1404db3605b84f875071fb6af0c8dd56bde5da5",
     "bitcoin4funsite/templates/_purchase_warning.html": "3851a25f2a2e975a4c08f912ee1fc7a276e4d72e3f025e401313d917f59f2dd1",
     "bitcoin4funsite/templates/_wallet_safety.html": "ccd9ee524873c37f5752464b639149d450c577ffedffb2bfc588dd8506608bb9",
